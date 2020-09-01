@@ -14025,20 +14025,20 @@
     "Context": {
       "ReferenceDateTime": "2019-08-12T00:00:00"
     },
-    "Comment": "Interpretation as ordinal + month is not ideal, but it is interpreatable and should guarantee that the recognizers don't raise exceptional behaviour.",
     "Results": [
       {
-        "Text": "the month",
-        "Start": 63,
+        "Text": "before the thirty-first day of the month",
+        "Start": 32,
         "End": 71,
         "TypeName": "datetimeV2.daterange",
         "Resolution": {
           "values": [
             {
-              "timex": "2019-08",
+              "timex": "2019-08-31",
+              "Mod": "before",
               "type": "daterange",
-              "start": "2019-08-01",
-              "end": "2019-09-01"
+              "sourceEntity": "datetimepoint",
+              "end": "2019-08-31"
             }
           ]
         }
@@ -16922,6 +16922,595 @@
               "type": "datetimerange",
               "start": "2020-07-01 20:00:00",
               "end": "2020-07-01 23:59:59"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Input": "When is the next new year day?",
+    "Context": {
+      "ReferenceDateTime": "2019-07-12T00:00:00"
+    },
+    "NotSupported": "javascript, python, java",
+    "Results": [
+      {
+        "Text": "next new year day",
+        "Start": 12,
+        "End": 28,
+        "TypeName": "datetimeV2.date",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "2020-01-01",
+              "type": "date",
+              "value": "2020-01-01"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Input": "When was the last easter?",
+    "Context": {
+      "ReferenceDateTime": "2019-03-12T00:00:00"
+    },
+    "NotSupported": "javascript, python, java",
+    "Results": [
+      {
+        "Text": "last easter",
+        "Start": 13,
+        "End": 23,
+        "TypeName": "datetimeV2.date",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "2018-04-01",
+              "type": "date",
+              "value": "2018-04-01"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Input": "tonight at 1am",
+    "Context": {
+      "ReferenceDateTime": "2019-12-26T00:00:00"
+    },
+    "Results": [
+      {
+        "Text": "tonight at 1am",
+        "Start": 0,
+        "End": 13,
+        "TypeName": "datetimeV2.datetime",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "2019-12-26T01",
+              "type": "datetime",
+              "value": "2019-12-26 01:00:00"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Input": "I'll go back tonight at 2am",
+    "Context": {
+      "ReferenceDateTime": "2019-12-26T00:00:00"
+    },
+    "Results": [
+      {
+        "Text": "tonight at 2am",
+        "Start": 13,
+        "End": 26,
+        "TypeName": "datetimeV2.datetime",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "2019-12-26T02",
+              "type": "datetime",
+              "value": "2019-12-26 02:00:00"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Input": "I'll go back tonight around 7",
+    "Context": {
+      "ReferenceDateTime": "2019-12-26T00:00:00"
+    },
+    "Results": [
+      {
+        "Text": "tonight around 7",
+        "Start": 13,
+        "End": 28,
+        "TypeName": "datetimeV2.datetime",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "2019-12-26T19",
+              "type": "datetime",
+              "value": "2019-12-26 19:00:00"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Input": "I'll go back tonight around 3",
+    "Context": {
+      "ReferenceDateTime": "2019-12-26T00:00:00"
+    },
+    "Results": [
+      {
+        "Text": "tonight around 3",
+        "Start": 13,
+        "End": 28,
+        "TypeName": "datetimeV2.datetime",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "2019-12-26T03",
+              "type": "datetime",
+              "value": "2019-12-26 03:00:00"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Input": "When was the previous easter?",
+    "Context": {
+      "ReferenceDateTime": "2019-02-12T00:00:00"
+    },
+    "NotSupported": "javascript, python, java",
+    "Results": [
+      {
+        "Text": "previous easter",
+        "Start": 13,
+        "End": 27,
+        "TypeName": "datetimeV2.date",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "2018-04-01",
+              "type": "date",
+              "value": "2018-04-01"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Input": "When was the last easter?",
+    "Context": {
+      "ReferenceDateTime": "2019-06-12T00:00:00"
+    },
+    "NotSupported": "javascript, python, java",
+    "Results": [
+      {
+        "Text": "last easter",
+        "Start": 13,
+        "End": 23,
+        "TypeName": "datetimeV2.date",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "2019-04-21",
+              "type": "date",
+              "value": "2019-04-21"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Input": "When was the next easter?",
+    "Context": {
+      "ReferenceDateTime": "2019-02-12T00:00:00"
+    },
+    "NotSupported": "javascript, python, java",
+    "Results": [
+      {
+        "Text": "next easter",
+        "Start": 13,
+        "End": 23,
+        "TypeName": "datetimeV2.date",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "2019-04-21",
+              "type": "date",
+              "value": "2019-04-21"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Input": "When was the following easter?",
+    "Context": {
+      "ReferenceDateTime": "2019-06-12T00:00:00"
+    },
+    "NotSupported": "javascript, python, java",
+    "Results": [
+      {
+        "Text": "following easter",
+        "Start": 13,
+        "End": 28,
+        "TypeName": "datetimeV2.date",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "2020-04-12",
+              "type": "date",
+              "value": "2020-04-12"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Input": "I'll go back by end of this month",
+    "Context": {
+      "ReferenceDateTime": "2016-11-07T00:00:00"
+    },
+    "NotSupported": "javascript, python, java",
+    "Results": [
+      {
+        "Text": "by end of this month",
+        "Start": 13,
+        "End": 32,
+        "TypeName": "datetimeV2.daterange",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "2016-11",
+              "Mod": "before-end",
+              "type": "daterange",
+              "sourceEntity": "datetimerange",
+              "end": "2016-12-01"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Input": "I'll go back before end of this year",
+    "Context": {
+      "ReferenceDateTime": "2016-11-07T00:00:00"
+    },
+    "NotSupported": "javascript, python, java",
+    "Results": [
+      {
+        "Text": "before end of this year",
+        "Start": 13,
+        "End": 35,
+        "TypeName": "datetimeV2.daterange",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "2016",
+              "Mod": "before-end",
+              "type": "daterange",
+              "sourceEntity": "datetimerange",
+              "end": "2017-01-01"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Input": "I'll go back end of this year",
+    "Context": {
+      "ReferenceDateTime": "2016-11-07T00:00:00"
+    },
+    "Results": [
+      {
+        "Text": "end of this year",
+        "Start": 13,
+        "End": 28,
+        "TypeName": "datetimeV2.daterange",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "2016",
+              "Mod": "end",
+              "type": "daterange",
+              "start": "2016-07-01",
+              "end": "2017-01-01"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Input": "I'll go back after the beginning of March",
+    "Context": {
+      "ReferenceDateTime": "2016-11-07T00:00:00"
+    },
+    "NotSupported": "javascript, python, java",
+    "Results": [
+      {
+        "Text": "after the beginning of march",
+        "Start": 13,
+        "End": 40,
+        "TypeName": "datetimeV2.daterange",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "XXXX-03",
+              "Mod": "after-start",
+              "type": "daterange",
+              "sourceEntity": "datetimerange",
+              "start": "2016-03-01"
+            },
+            {
+              "timex": "XXXX-03",
+              "Mod": "after-start",
+              "type": "daterange",
+              "sourceEntity": "datetimerange",
+              "start": "2017-03-01"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Input": "I'll go back before the end of December",
+    "Context": {
+      "ReferenceDateTime": "2016-11-07T00:00:00"
+    },
+    "NotSupported": "javascript, python, java",
+    "Results": [
+      {
+        "Text": "before the end of december",
+        "Start": 13,
+        "End": 38,
+        "TypeName": "datetimeV2.daterange",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "XXXX-12",
+              "Mod": "before-end",
+              "type": "daterange",
+              "sourceEntity": "datetimerange",
+              "end": "2016-01-01"
+            },
+            {
+              "timex": "XXXX-12",
+              "Mod": "before-end",
+              "type": "daterange",
+              "sourceEntity": "datetimerange",
+              "end": "2017-01-01"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Input": "We will come back before the twenty-sixth day of the month",
+    "Context": {
+      "ReferenceDateTime": "2020-07-01T12:00:00"
+    },
+    "Results": [
+      {
+        "Text": "before the twenty-sixth day of the month",
+        "Start": 18,
+        "End": 57,
+        "TypeName": "datetimeV2.daterange",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "2020-07-26",
+              "Mod": "before",
+              "type": "daterange",
+              "sourceEntity": "datetimepoint",
+              "end": "2020-07-26"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Input": "We will come back after the 15th day of next month",
+    "Context": {
+      "ReferenceDateTime": "2020-07-01T12:00:00"
+    },
+    "Results": [
+      {
+        "Text": "after the 15th day of next month",
+        "Start": 18,
+        "End": 49,
+        "TypeName": "datetimeV2.daterange",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "2020-08-15",
+              "Mod": "after",
+              "type": "daterange",
+              "sourceEntity": "datetimepoint",
+              "start": "2020-08-15"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Input": "We will come back on the 15th day of next month",
+    "Context": {
+      "ReferenceDateTime": "2020-07-01T12:00:00"
+    },
+    "NotSupportedByDesign": "python, java, javascript",
+    "Results": [
+      {
+        "Text": "the 15th day of next month",
+        "Start": 21,
+        "End": 46,
+        "TypeName": "datetimeV2.date",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "2020-08-15",
+              "type": "date",
+              "value": "2020-08-15"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Input": "We will come back after the 15th day of June",
+    "Context": {
+      "ReferenceDateTime": "2020-07-01T12:00:00"
+    },
+    "Results": [
+      {
+        "Text": "after the 15th day of june",
+        "Start": 18,
+        "End": 43,
+        "TypeName": "datetimeV2.daterange",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "XXXX-06-15",
+              "Mod": "after",
+              "type": "daterange",
+              "sourceEntity": "datetimepoint",
+              "start": "2020-06-15"
+            },
+            {
+              "timex": "XXXX-06-15",
+              "Mod": "after",
+              "type": "daterange",
+              "sourceEntity": "datetimepoint",
+              "start": "2021-06-15"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Input": "We will come back on the twenty third day of September",
+    "Context": {
+      "ReferenceDateTime": "2020-07-01T12:00:00"
+    },
+    "NotSupportedByDesign": "python, java, javascript",
+    "Results": [
+      {
+        "Text": "twenty third day of september",
+        "Start": 25,
+        "End": 53,
+        "TypeName": "datetimeV2.date",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "XXXX-09-23",
+              "type": "date",
+              "value": "2019-09-23"
+            },
+            {
+              "timex": "XXXX-09-23",
+              "type": "date",
+              "value": "2020-09-23"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Input": "How many Azure clusters docked till date?",
+    "Context": {
+      "ReferenceDateTime": "2016-11-07T00:00:00"
+    },
+    "NotSupported": "java, javascript, python",
+    "Results": [
+      {
+        "Text": "till date",
+        "Start": 31,
+        "End": 39,
+        "TypeName": "datetimeV2.daterange",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "PRESENT_REF",
+              "type": "daterange",
+              "Mod": "before",
+              "end": "2016-11-07"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Input": "How many Azure clusters docked to date?",
+    "Context": {
+      "ReferenceDateTime": "2016-11-07T00:00:00"
+    },
+    "NotSupported": "java, javascript, python",
+    "Results": [
+      {
+        "Text": "to date",
+        "Start": 31,
+        "End": 37,
+        "TypeName": "datetimeV2.daterange",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "PRESENT_REF",
+              "type": "daterange",
+              "Mod": "before",
+              "end": "2016-11-07"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Input": "How many Azure clusters docked from March to date?",
+    "Context": {
+      "ReferenceDateTime": "2016-11-07T00:00:00"
+    },
+    "NotSupported": "java, javascript, python",
+    "Results": [
+      {
+        "Text": "from march to date",
+        "Start": 31,
+        "End": 48,
+        "TypeName": "datetimeV2.daterange",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "(2016-03-01,2016-11-07,P251D)",
+              "type": "daterange",
+              "start": "2016-03-01",
+              "end": "2016-11-07"
             }
           ]
         }
