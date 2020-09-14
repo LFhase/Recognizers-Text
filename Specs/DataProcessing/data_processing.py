@@ -90,6 +90,7 @@ def data_analysis(data):
     Args:
         data : list of EdiLU objects
     """
+
     cnt_ent = 0
     avg_len = 0
     cnt_no_ent_sent = 0
@@ -102,20 +103,41 @@ def data_analysis(data):
             type_dict[ent["Type"]] = type_dict.get(ent["Type"], 0) + 1
             avg_len += len(ent["Text"])
         cnt_ent += len(sent["Entities"])
-    avg_len /= cnt_ent
+    avg_len  =  avg_len/cnt_ent if cnt_ent!=0 else -1
 
     logger.info("Total Sentences: {0}, Totel Entities: {1}, Avg Entity Length: {2}, Sentence w/o Entities: {3}".format(
         len(data), cnt_ent, round(avg_len, 2), cnt_no_ent_sent))
     for (tp, no) in type_dict.items():
         logger.info(": ".join([str(tp), str(no)]))
+    
     logger.info("============================================================================================")
+
+def data_merge(path, dataset_name="processed_data"):
+    """
+    Merge the processed datasets with the name input 
+
+    """
+    files = glob.glob(path+"**//"+dataset_name+".json")
+    logger.info("Found {} files under the path {}".format(len(files),path))
+    final_data = []
+
+    for file in files:
+        assert dataset_name in file
+        data = json.load(open(file,"r",encoding="utf-8"))
+        final_data += data
+
+    data_analysis(final_data)
+    final_data = json.dumps(final_data,indent=4)
+    new_file = open(path + "//merged_data.json", "w+", encoding="UTF-8")
+    new_file.writelines(final_data)
 
 
 if __name__ == "__main__":
-    type_path = "..//Number//"
-    optparser = optparse.OptionParser()
-    optparser.add_option('--type', default='Number', help='Specify which type you wanna aggregrate')
-    opts = optparser.parse_args()[0]
-    type_path = type_path.replace("Number", opts.type)
-    for lang in glob.glob(type_path + "*"):
-        data_gen(type_path + lang)
+    # type_path = "..//Number//"
+    # optparser = optparse.OptionParser()
+    # optparser.add_option('--type', default='Number', help='Specify which type you wanna aggregrate')
+    # opts = optparser.parse_args()[0]
+    # type_path = type_path.replace("Number", opts.type)
+    # for lang in glob.glob(type_path + "*"):
+    #     data_gen(type_path + lang)
+    data_merge("..//Number//")
