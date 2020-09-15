@@ -1,0 +1,2499 @@
+[
+    {
+        "Text": "\u0628\u0627\u0644\u062a\u0623\u0643\u064a\u062f!",
+        "Entities": [
+            {
+                "Text": "\u0628\u0627\u0644\u062a\u0623\u0643\u064a\u062f",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 7
+            }
+        ]
+    },
+    {
+        "Text": "\u0623\u0646\u0627 \u0644\u0627 \u0623\u0638\u0646 \u0630\u0644\u0643. \u0644\u0627.",
+        "Entities": [
+            {
+                "Text": "\u0644\u0627",
+                "Type": "boolean",
+                "Start": 4,
+                "End": 5
+            }
+        ]
+    },
+    {
+        "Text": "\u0623\u0639\u062a\u0642\u062f \u0623\u0646 \u0647\u0630\u0627 \u0633\u064a\u0646\u062c\u062d. \u0644\u0630\u0644\u0643 \u0646\u0639\u0645 \u0633\u0648\u0641 \u0623\u0642\u0648\u0645 \u0628\u0630\u0644\u0643.",
+        "Entities": [
+            {
+                "Text": "\u0646\u0639\u0645",
+                "Type": "boolean",
+                "Start": 25,
+                "End": 27
+            }
+        ]
+    },
+    {
+        "Text": "\u0644\u0627\u060c \u0642\u0644\u062a \u0627\u0644\u0631\u0627\u0628\u0639 \u0645\u0646 \u064a\u0648\u0644\u064a\u0648",
+        "Entities": [
+            {
+                "Text": "\u0644\u0627",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "\u0646\u0639\u0645... \u0642\u0644\u062a \u0644\u0627 \u0628\u0635\u0644",
+        "Entities": [
+            {
+                "Text": "\u0646\u0639\u0645",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 2
+            }
+        ]
+    },
+    {
+        "Text": "\u0642\u0644\u062a \u0644\u0627 \u0644\u064a\u0633 \u0646\u0639\u0645!",
+        "Entities": [
+            {
+                "Text": "\u0644\u0627",
+                "Type": "boolean",
+                "Start": 4,
+                "End": 5
+            }
+        ]
+    },
+    {
+        "Text": "\u0646\u0639\u0645. \u0623\u0646\u0627 \u0623\u0642\u0648\u0644 \u0644\u0627",
+        "Entities": [
+            {
+                "Text": "\u0646\u0639\u0645",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 2
+            }
+        ]
+    },
+    {
+        "Text": "\u0627\u062e\u062a\u0644\u0641 \u060c \u0641\u0625\u0646\u0647 \u0644\u064a\u0633 \u0635\u062d\u064a\u062d",
+        "Entities": [
+            {
+                "Text": "\u0644\u064a\u0633 \u0635\u062d\u064a\u062d",
+                "Type": "boolean",
+                "Start": 13,
+                "End": 20
+            }
+        ]
+    },
+    {
+        "Text": "\u0627\u062a\u0641\u0642\u060c \u0644\u0627 \u0645\u0634\u0643\u0644\u0629",
+        "Entities": [
+            {
+                "Text": "\u0627\u062a\u0641\u0642",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 3
+            }
+        ]
+    },
+    {
+        "Text": "\u0623\u062a\u0641\u0642\u060c \u0641\u0625\u0646\u0647 \u0644\u064a\u0633 \u0635\u062d\u064a\u062d",
+        "Entities": [
+            {
+                "Text": "\u0644\u064a\u0633 \u0635\u062d\u064a\u062d",
+                "Type": "boolean",
+                "Start": 11,
+                "End": 18
+            }
+        ]
+    },
+    {
+        "Text": "\u0623\u062e\u062a\u0644\u0641",
+        "Entities": [
+            {
+                "Text": "\u0623\u062e\u062a\u0644\u0641",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 4
+            }
+        ]
+    },
+    {
+        "Text": "\u0627\u0646\u0647\u0627 \u0644\u064a\u0633\u062a \u0639\u0644\u0649 \u0645\u0627 \u064a\u0631\u0627\u0645",
+        "Entities": [
+            {
+                "Text": "\u0644\u064a\u0633\u062a",
+                "Type": "boolean",
+                "Start": 5,
+                "End": 8
+            }
+        ]
+    },
+    {
+        "Text": "\ud83d\udc4c \u0644\u0627 \u0628\u0623\u0633",
+        "Entities": [
+            {
+                "Text": "\ud83d\udc4c",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c",
+        "Entities": [
+            {
+                "Text": "\ud83d\udc4c",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "\u041e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u043e!",
+        "Entities": [
+            {
+                "Text": "\u041e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u043e",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 9
+            }
+        ]
+    },
+    {
+        "Text": "\u041d\u0435 \u043c\u0438\u0441\u043b\u044f \u0442\u0430\u043a\u0430. \u043d\u0435.",
+        "Entities": [
+            {
+                "Text": "\u041d\u0435",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "\u041c\u0438\u0441\u043b\u044f, \u0447\u0435 \u0442\u043e\u0432\u0430 \u0449\u0435 \u043f\u0440\u043e\u0440\u0430\u0431\u043e\u0442\u0438. \u0442\u0430\u043a\u0430 \u0447\u0435 \u0434\u0430.",
+        "Entities": [
+            {
+                "Text": "\u0434\u0430",
+                "Type": "boolean",
+                "Start": 37,
+                "End": 38
+            }
+        ]
+    },
+    {
+        "Text": "\u043d\u0435. \u041a\u0430\u0437\u0430\u0445 \u0447\u0435\u0442\u0432\u044a\u0440\u0442\u0438 \u044e\u043b\u0438",
+        "Entities": [
+            {
+                "Text": "\u043d\u0435",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "\u0434\u0430... \u041a\u0430\u0437\u0430\u0445, \u0431\u0435\u0437 \u043a\u0440\u043e\u043c\u0438\u0434",
+        "Entities": [
+            {
+                "Text": "\u0434\u0430",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "\u041a\u0430\u0437\u0430\u0445 \u041d\u0415 \u043d\u0435 \u0434\u0430!",
+        "Entities": [
+            {
+                "Text": "\u041d\u0415",
+                "Type": "boolean",
+                "Start": 6,
+                "End": 7
+            }
+        ]
+    },
+    {
+        "Text": "\u0414\u0430. \u041a\u0430\u0437\u0430\u0445 \u043d\u0435",
+        "Entities": [
+            {
+                "Text": "\u0414\u0430",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "\u043d\u0435 \u0441\u044a\u043c \u0441\u044a\u0433\u043b\u0430\u0441\u0435\u043d, \u043d\u0435 \u0435 \u0434\u043e\u0431\u0440\u0435",
+        "Entities": [
+            {
+                "Text": "\u043d\u0435 \u0441\u044a\u043c \u0441\u044a\u0433\u043b\u0430\u0441\u0435\u043d",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 14
+            }
+        ]
+    },
+    {
+        "Text": "\u0441\u044a\u0433\u043b\u0430\u0441\u0435\u043d \u0441\u044a\u043c, \u0434\u043e\u0431\u0440\u0435 \u0435",
+        "Entities": [
+            {
+                "Text": "\u0441\u044a\u0433\u043b\u0430\u0441\u0435\u043d",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 7
+            }
+        ]
+    },
+    {
+        "Text": "\u0441\u044a\u0433\u043b\u0430\u0441\u0435\u043d \u0441\u044a\u043c, \u043d\u0435 \u0435 \u0434\u043e\u0431\u0440\u0435",
+        "Entities": [
+            {
+                "Text": "\u043d\u0435 \u0435 \u0434\u043e\u0431\u0440\u0435",
+                "Type": "boolean",
+                "Start": 14,
+                "End": 23
+            }
+        ]
+    },
+    {
+        "Text": "\u043d\u0435 \u0441\u044a\u043c \u0441\u044a\u0433\u043b\u0430\u0441\u0435\u043d",
+        "Entities": [
+            {
+                "Text": "\u043d\u0435 \u0441\u044a\u043c \u0441\u044a\u0433\u043b\u0430\u0441\u0435\u043d",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 14
+            }
+        ]
+    },
+    {
+        "Text": "\u043d\u0435 \u0435 \u0434\u043e\u0431\u0440\u0435",
+        "Entities": [
+            {
+                "Text": "\u043d\u0435 \u0435 \u0434\u043e\u0431\u0440\u0435",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 9
+            }
+        ]
+    },
+    {
+        "Text": "\ud83d\udc4c \u041d\u044f\u043c\u0430 \u043f\u0440\u043e\u0431\u043b\u0435\u043c",
+        "Entities": [
+            {
+                "Text": "\ud83d\udc4c",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c",
+        "Entities": [
+            {
+                "Text": "\ud83d\udc4c",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "\u662f",
+        "Entities": [
+            {
+                "Text": "\u662f",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "\u662f\u7684",
+        "Entities": [
+            {
+                "Text": "\u662f\u7684",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "\u597d",
+        "Entities": [
+            {
+                "Text": "\u597d",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "\u597d\u7684",
+        "Entities": [
+            {
+                "Text": "\u597d\u7684",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "\u6ca1\u95ee\u9898",
+        "Entities": [
+            {
+                "Text": "\u6ca1\u95ee\u9898",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 2
+            }
+        ]
+    },
+    {
+        "Text": "\u53ef\u4ee5",
+        "Entities": [
+            {
+                "Text": "\u53ef\u4ee5",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "\u4e2d",
+        "Entities": [
+            {
+                "Text": "\u4e2d",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "\u884c",
+        "Entities": [
+            {
+                "Text": "\u884c",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "\u597d\u554a",
+        "Entities": [
+            {
+                "Text": "\u597d\u554a",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "\u597d\u5440",
+        "Entities": [
+            {
+                "Text": "\u597d\u5440",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "\u597d\u54c7",
+        "Entities": [
+            {
+                "Text": "\u597d\u54c7",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "\u597d\u561e",
+        "Entities": [
+            {
+                "Text": "\u597d\u561e",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "\u540c\u610f",
+        "Entities": [
+            {
+                "Text": "\u540c\u610f",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "\u4e0d\u884c",
+        "Entities": [
+            {
+                "Text": "\u4e0d\u884c",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "\u4e0d\u4e2d",
+        "Entities": [
+            {
+                "Text": "\u4e0d\u4e2d",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "\u4e0d\u662f",
+        "Entities": [
+            {
+                "Text": "\u4e0d\u662f",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "\u4e0d\u53ef\u4ee5",
+        "Entities": [
+            {
+                "Text": "\u4e0d\u53ef\u4ee5",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 2
+            }
+        ]
+    },
+    {
+        "Text": "\u62d2\u7edd",
+        "Entities": [
+            {
+                "Text": "\u62d2\u7edd",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "\u5426\u5b9a",
+        "Entities": [
+            {
+                "Text": "\u5426\u5b9a",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "\u4e0d\u597d",
+        "Entities": [
+            {
+                "Text": "\u4e0d\u597d",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c",
+        "Entities": [
+            {
+                "Text": "\ud83d\udc4c",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "\u4e0d\u662f\uff0c\u6211\u5e76\u4e0d\u8ba4\u4e3a\u662f\u8fd9\u6837",
+        "Entities": [
+            {
+                "Text": "\u4e0d\u662f",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "\u6211\u89c9\u5f97\u90a3\u6837\u53ef\u884c\uff0c\u6240\u4ee5\u6211 \u540c\u610f",
+        "Entities": [
+            {
+                "Text": "\u540c\u610f",
+                "Type": "boolean",
+                "Start": 12,
+                "End": 13
+            }
+        ]
+    },
+    {
+        "Text": "\u4e0d\u662f\uff0c\u6211\u8bf4\u662f7\u67084\u53f7",
+        "Entities": [
+            {
+                "Text": "\u4e0d\u662f",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "\u5bf9\uff0c\u6211\u8bf4\u4e0d\u8981\u6d0b\u8471",
+        "Entities": [
+            {
+                "Text": "\u5bf9",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "\u6211\u8bf4\"\u4e0d\"\u800c\u4e0d\u662f\"\u5bf9\"",
+        "Entities": [
+            {
+                "Text": "\u4e0d",
+                "Type": "boolean",
+                "Start": 3,
+                "End": 3
+            }
+        ]
+    },
+    {
+        "Text": "\u5bf9\uff0c\u6211\u8bf4\u4e86\u4e0d\u662f",
+        "Entities": [
+            {
+                "Text": "\u5bf9",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "\u5426\u5b9a\uff0c\u90a3\u4e0d\u53ef\u4ee5",
+        "Entities": [
+            {
+                "Text": "\u5426\u5b9a",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "\u540c\u610f\uff0c\u90a3\u5f88\u597d",
+        "Entities": [
+            {
+                "Text": "\u540c\u610f",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "\u540c\u610f\uff0c\u90a3\u4e0d\u597d",
+        "Entities": [
+            {
+                "Text": "\u540c\u610f",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "\ud83d\udc4c \u53ef\u4ee5",
+        "Entities": [
+            {
+                "Text": "\ud83d\udc4c",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "Prima!",
+        "Entities": [
+            {
+                "Text": "Prima",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 4
+            }
+        ]
+    },
+    {
+        "Text": "Ik denk het niet.",
+        "Entities": [
+            {
+                "Text": "niet",
+                "Type": "boolean",
+                "Start": 12,
+                "End": 15
+            }
+        ]
+    },
+    {
+        "Text": "Ik denk dat het wel gaat werken, dus ja ik zal het doen.",
+        "Entities": [
+            {
+                "Text": "ja",
+                "Type": "boolean",
+                "Start": 37,
+                "End": 38
+            }
+        ]
+    },
+    {
+        "Text": "Nee, ik zei 4 juli.",
+        "Entities": [
+            {
+                "Text": "Nee",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 2
+            }
+        ]
+    },
+    {
+        "Text": "Ja... Ik heb dat nooit gezegd",
+        "Entities": [
+            {
+                "Text": "Ja",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "Ik zei NEE in plaats van ja!",
+        "Entities": [
+            {
+                "Text": "NEE",
+                "Type": "boolean",
+                "Start": 7,
+                "End": 9
+            }
+        ]
+    },
+    {
+        "Text": "Ja. Ik zei nee",
+        "Entities": [
+            {
+                "Text": "Ja",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "\ud83d\udc4c Dat is ok",
+        "Entities": [
+            {
+                "Text": "\ud83d\udc4c",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c",
+        "Entities": [
+            {
+                "Text": "\ud83d\udc4c",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "Ik ga akkoord",
+        "Entities": [
+            {
+                "Text": "akkoord",
+                "Type": "boolean",
+                "Start": 6,
+                "End": 12
+            }
+        ]
+    },
+    {
+        "Text": "Ik ga niet akkoord",
+        "Entities": [
+            {
+                "Text": "niet",
+                "Type": "boolean",
+                "Start": 6,
+                "End": 9
+            }
+        ]
+    },
+    {
+        "Text": "Dat is vanzelfsprekend",
+        "Entities": [
+            {
+                "Text": "vanzelfsprekend",
+                "Type": "boolean",
+                "Start": 7,
+                "End": 21
+            }
+        ]
+    },
+    {
+        "Text": "Natuurlijk gaan we dat doen!",
+        "Entities": [
+            {
+                "Text": "Natuurlijk",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 9
+            }
+        ]
+    },
+    {
+        "Text": "Sure!",
+        "Entities": [
+            {
+                "Text": "Sure",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 3
+            }
+        ]
+    },
+    {
+        "Text": "I don't thing so. no.",
+        "Entities": [
+            {
+                "Text": "no",
+                "Type": "boolean",
+                "Start": 18,
+                "End": 19
+            }
+        ]
+    },
+    {
+        "Text": "I think that would work. so yes I will.",
+        "Entities": [
+            {
+                "Text": "yes",
+                "Type": "boolean",
+                "Start": 28,
+                "End": 30
+            }
+        ]
+    },
+    {
+        "Text": "no. I said the fourth of July",
+        "Entities": [
+            {
+                "Text": "no",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "yes... I said no onions",
+        "Entities": [
+            {
+                "Text": "yes",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 2
+            }
+        ]
+    },
+    {
+        "Text": "I said NO not yes!",
+        "Entities": [
+            {
+                "Text": "NO",
+                "Type": "boolean",
+                "Start": 7,
+                "End": 8
+            }
+        ]
+    },
+    {
+        "Text": "Yes. I said no",
+        "Entities": [
+            {
+                "Text": "Yes",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 2
+            }
+        ]
+    },
+    {
+        "Text": "disagree, it is not ok",
+        "Entities": [
+            {
+                "Text": "not ok",
+                "Type": "boolean",
+                "Start": 16,
+                "End": 21
+            }
+        ]
+    },
+    {
+        "Text": "agree, it is ok",
+        "Entities": [
+            {
+                "Text": "agree",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 4
+            }
+        ]
+    },
+    {
+        "Text": "agree, it is not ok",
+        "Entities": [
+            {
+                "Text": "not ok",
+                "Type": "boolean",
+                "Start": 13,
+                "End": 18
+            }
+        ]
+    },
+    {
+        "Text": "disagree",
+        "Entities": [
+            {
+                "Text": "disagree",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 7
+            }
+        ]
+    },
+    {
+        "Text": "it's not ok",
+        "Entities": [
+            {
+                "Text": "not ok",
+                "Type": "boolean",
+                "Start": 5,
+                "End": 10
+            }
+        ]
+    },
+    {
+        "Text": "\ud83d\udc4c It's ok",
+        "Entities": [
+            {
+                "Text": "\ud83d\udc4c",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c",
+        "Entities": [
+            {
+                "Text": "\ud83d\udc4c",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "Yeah that sounds good.",
+        "Entities": [
+            {
+                "Text": "Yeah",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 3
+            }
+        ]
+    },
+    {
+        "Text": "Yup that's fine",
+        "Entities": [
+            {
+                "Text": "Yup",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 2
+            }
+        ]
+    },
+    {
+        "Text": "Yeah, let's do that instead.",
+        "Entities": [
+            {
+                "Text": "Yeah",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 3
+            }
+        ]
+    },
+    {
+        "Text": "Sur",
+        "Entities": [
+            {
+                "Text": "Sur",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 2
+            }
+        ]
+    },
+    {
+        "Text": "Je ne pense pas.",
+        "Entities": [
+            {
+                "Text": "pas",
+                "Type": "boolean",
+                "Start": 12,
+                "End": 14
+            }
+        ]
+    },
+    {
+        "Text": "Je crois que \u00e7a marche",
+        "Entities": [
+            {
+                "Text": "\u00e7a marche",
+                "Type": "boolean",
+                "Start": 13,
+                "End": 21
+            }
+        ]
+    },
+    {
+        "Text": "non. J'ai dit le 4 juillet",
+        "Entities": [
+            {
+                "Text": "non",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 2
+            }
+        ]
+    },
+    {
+        "Text": "oui... j'ai dit pas d'oignons!",
+        "Entities": [
+            {
+                "Text": "oui",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 2
+            }
+        ]
+    },
+    {
+        "Text": "J'ai dit NON pas oui!",
+        "Entities": [
+            {
+                "Text": "NON",
+                "Type": "boolean",
+                "Start": 9,
+                "End": 11
+            }
+        ]
+    },
+    {
+        "Text": "Oui. j'ai dit non",
+        "Entities": [
+            {
+                "Text": "Oui",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 2
+            }
+        ]
+    },
+    {
+        "Text": "pas d'accord, ce n'est pas correct",
+        "Entities": [
+            {
+                "Text": "n'est pas correct",
+                "Type": "boolean",
+                "Start": 17,
+                "End": 33
+            }
+        ]
+    },
+    {
+        "Text": "d'accord, c'est ok",
+        "Entities": [
+            {
+                "Text": "d'accord",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 7
+            }
+        ]
+    },
+    {
+        "Text": "d'accord, ce n'est pas ok",
+        "Entities": [
+            {
+                "Text": "n'est pas ok",
+                "Type": "boolean",
+                "Start": 13,
+                "End": 24
+            }
+        ]
+    },
+    {
+        "Text": "ne pas concorder",
+        "Entities": [
+            {
+                "Text": "pas concorder",
+                "Type": "boolean",
+                "Start": 3,
+                "End": 15
+            }
+        ]
+    },
+    {
+        "Text": "ce n'est pas ok",
+        "Entities": [
+            {
+                "Text": "n'est pas ok",
+                "Type": "boolean",
+                "Start": 3,
+                "End": 14
+            }
+        ]
+    },
+    {
+        "Text": "\ud83d\udc4c C'est bon",
+        "Entities": [
+            {
+                "Text": "\ud83d\udc4c",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c",
+        "Entities": [
+            {
+                "Text": "\ud83d\udc4c",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "Ja klar!",
+        "Entities": [
+            {
+                "Text": "Ja",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "Ich denke nicht. Nein.",
+        "Entities": [
+            {
+                "Text": "Nein",
+                "Type": "boolean",
+                "Start": 17,
+                "End": 20
+            }
+        ]
+    },
+    {
+        "Text": "Das sollte funktionieren, also mache ich es.",
+        "Entities": [
+            {
+                "Text": "mache ich",
+                "Type": "boolean",
+                "Start": 31,
+                "End": 39
+            }
+        ]
+    },
+    {
+        "Text": "Nein. Ich sagte vierter Juli",
+        "Entities": [
+            {
+                "Text": "Nein",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 3
+            }
+        ]
+    },
+    {
+        "Text": "Ja... ich sagte keine Zwiebeln",
+        "Entities": [
+            {
+                "Text": "Ja",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "Ich sagte NEIN NICHT ja!",
+        "Entities": [
+            {
+                "Text": "NEIN",
+                "Type": "boolean",
+                "Start": 10,
+                "End": 13
+            }
+        ]
+    },
+    {
+        "Text": "Ja. Ich sagte nein",
+        "Entities": [
+            {
+                "Text": "Ja",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "\ud83d\udc4c Alles klar",
+        "Entities": [
+            {
+                "Text": "\ud83d\udc4c",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c",
+        "Entities": [
+            {
+                "Text": "\ud83d\udc4c",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "\u092c\u093f\u0932\u0915\u0941\u0932!",
+        "Entities": [
+            {
+                "Text": "\u092c\u093f\u0932\u0915\u0941\u0932",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 5
+            }
+        ]
+    },
+    {
+        "Text": "\u092e\u0941\u091d\u0947 \u0910\u0938\u093e \u0928\u0939\u0940\u0902 \u0932\u0917\u0924\u093e. \u0928\u0939\u0940\u0902.",
+        "Entities": [
+            {
+                "Text": "\u0928\u0939\u0940\u0902",
+                "Type": "boolean",
+                "Start": 9,
+                "End": 12
+            }
+        ]
+    },
+    {
+        "Text": "\u092e\u0941\u091d\u0947 \u0932\u0917\u0924\u093e \u0939\u0948 \u092f\u0939 \u0915\u093e\u092e \u0915\u0930 \u091c\u093e\u090f\u0917\u093e\u0964 \u0924\u094b \u0939\u093e\u0901 \u092e\u0948\u0902 \u0915\u0930\u0941\u0902\u0917\u093e\u0964",
+        "Entities": [
+            {
+                "Text": "\u0939\u093e\u0901",
+                "Type": "boolean",
+                "Start": 33,
+                "End": 35
+            }
+        ]
+    },
+    {
+        "Text": "\u0928\u093e. \u092e\u0948\u0902\u0928\u0947 \u091a\u093e\u0930 \u091c\u0941\u0932\u093e\u0908 \u0915\u0939\u093e \u0925\u093e",
+        "Entities": [
+            {
+                "Text": "\u0928\u093e",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "\u0939\u093e\u0902... \u092e\u0948\u0902\u0928\u0947 \u0915\u0939\u093e \u0925\u093e \u0915\u094b\u0908 \u092a\u094d\u092f\u093e\u095b \u0928\u0939\u0940\u0902",
+        "Entities": [
+            {
+                "Text": "\u0939\u093e\u0902",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 2
+            }
+        ]
+    },
+    {
+        "Text": "\u092e\u0948\u0902\u0928\u0947 \u0928\u093e \u0915\u0939\u093e \u0925\u093e, \u0939\u093e\u0902 \u0928\u0939\u0940\u0902!",
+        "Entities": [
+            {
+                "Text": "\u0928\u093e",
+                "Type": "boolean",
+                "Start": 6,
+                "End": 7
+            }
+        ]
+    },
+    {
+        "Text": "\u0939\u093e\u0902. \u092e\u0948\u0902\u0928\u0947 \u0928\u093e \u0915\u0939\u093e \u0925\u093e",
+        "Entities": [
+            {
+                "Text": "\u0939\u093e\u0902",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 2
+            }
+        ]
+    },
+    {
+        "Text": "\u0905\u0938\u0939\u092e\u0924, \u092f\u0939 \u0920\u0940\u0915 \u0928\u0939\u0940\u0902 \u0939\u0948",
+        "Entities": [
+            {
+                "Text": "\u0920\u0940\u0915 \u0928\u0939\u0940\u0902",
+                "Type": "boolean",
+                "Start": 10,
+                "End": 17
+            }
+        ]
+    },
+    {
+        "Text": "\u0938\u0939\u092e\u0924, \u092f\u0939 \u0920\u0940\u0915 \u0939\u0948",
+        "Entities": [
+            {
+                "Text": "\u0938\u0939\u092e\u0924",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 3
+            }
+        ]
+    },
+    {
+        "Text": "\u0938\u0939\u092e\u0924, \u092f\u0939 \u0920\u0940\u0915 \u0928\u0939\u0940\u0902 \u0939\u0948",
+        "Entities": [
+            {
+                "Text": "\u0920\u0940\u0915 \u0928\u0939\u0940\u0902",
+                "Type": "boolean",
+                "Start": 9,
+                "End": 16
+            }
+        ]
+    },
+    {
+        "Text": "\u0905\u0938\u0939\u092e\u0924",
+        "Entities": [
+            {
+                "Text": "\u0905\u0938\u0939\u092e\u0924",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 4
+            }
+        ]
+    },
+    {
+        "Text": "\u092f\u0939 \u0920\u0940\u0915 \u0928\u0939\u0940\u0902 \u0939\u0948",
+        "Entities": [
+            {
+                "Text": "\u0920\u0940\u0915 \u0928\u0939\u0940\u0902",
+                "Type": "boolean",
+                "Start": 3,
+                "End": 10
+            }
+        ]
+    },
+    {
+        "Text": "\ud83d\udc4c \u092f\u0939 \u0920\u0940\u0915 \u0939\u0948",
+        "Entities": [
+            {
+                "Text": "\ud83d\udc4c",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c",
+        "Entities": [
+            {
+                "Text": "\ud83d\udc4c",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "Certo!",
+        "Entities": [
+            {
+                "Text": "Certo",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 4
+            }
+        ]
+    },
+    {
+        "Text": "S\u00ec",
+        "Entities": [
+            {
+                "Text": "S\u00ec",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "Non credo. no.",
+        "Entities": [
+            {
+                "Text": "no",
+                "Type": "boolean",
+                "Start": 11,
+                "End": 12
+            }
+        ]
+    },
+    {
+        "Text": "Penso dovrebbe funzionare. Si lo far\u00f2.",
+        "Entities": [
+            {
+                "Text": "Si",
+                "Type": "boolean",
+                "Start": 27,
+                "End": 28
+            }
+        ]
+    },
+    {
+        "Text": "no. Ho detto il quattro luglio",
+        "Entities": [
+            {
+                "Text": "no",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "s\u00ec... ho detto niente cipolle",
+        "Entities": [
+            {
+                "Text": "s\u00ec",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "Ho detto NO non si!",
+        "Entities": [
+            {
+                "Text": "NO",
+                "Type": "boolean",
+                "Start": 9,
+                "End": 10
+            }
+        ]
+    },
+    {
+        "Text": "Si. Ho detto no",
+        "Entities": [
+            {
+                "Text": "Si",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "non sono d'accordo, cos\u00ec non \u00e8 ok",
+        "Entities": [
+            {
+                "Text": "non \u00e8 ok",
+                "Type": "boolean",
+                "Start": 25,
+                "End": 32
+            }
+        ]
+    },
+    {
+        "Text": "d'accordo, \u00e8 ok",
+        "Entities": [
+            {
+                "Text": "d'accordo",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 8
+            }
+        ]
+    },
+    {
+        "Text": "sono d'accordo, non va bene",
+        "Entities": [
+            {
+                "Text": "non va bene",
+                "Type": "boolean",
+                "Start": 16,
+                "End": 26
+            }
+        ]
+    },
+    {
+        "Text": "falso",
+        "Entities": [
+            {
+                "Text": "falso",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 4
+            }
+        ]
+    },
+    {
+        "Text": "non va bene",
+        "Entities": [
+            {
+                "Text": "non va bene",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 10
+            }
+        ]
+    },
+    {
+        "Text": "niente affatto, staremo qui",
+        "Entities": [
+            {
+                "Text": "niente affatto",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 13
+            }
+        ]
+    },
+    {
+        "Text": "\ud83d\udc4c \u00e8 ok",
+        "Entities": [
+            {
+                "Text": "\ud83d\udc4c",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c",
+        "Entities": [
+            {
+                "Text": "\ud83d\udc4c",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "\u306f\u3044!",
+        "Entities": [
+            {
+                "Text": "\u306f\u3044",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "\u306f\u3044\uff01",
+        "Entities": [
+            {
+                "Text": "\u306f\u3044\uff01",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 2
+            }
+        ]
+    },
+    {
+        "Text": "\u3088\u3044",
+        "Entities": [
+            {
+                "Text": "\u3088\u3044",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "\u3088\u3044\u3067\u3059",
+        "Entities": [
+            {
+                "Text": "\u3088\u3044\u3067\u3059",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 3
+            }
+        ]
+    },
+    {
+        "Text": "\u305d\u3046\u3067\u3059",
+        "Entities": [
+            {
+                "Text": "\u305d\u3046\u3067\u3059",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 3
+            }
+        ]
+    },
+    {
+        "Text": "\u3044\u3044\u3048\u3001\u99c4\u76ee\u3067\u3059.",
+        "Entities": [
+            {
+                "Text": "\u3044\u3044\u3048",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 2
+            }
+        ]
+    },
+    {
+        "Text": "\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c",
+        "Entities": [
+            {
+                "Text": "\ud83d\udc4c",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "\uadf8\ub798\uc694!",
+        "Entities": [
+            {
+                "Text": "\uadf8\ub798\uc694",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 2
+            }
+        ]
+    },
+    {
+        "Text": "\ub098\ub294 \uadf8\ub807\uac8c \uc0dd\uac01\ud558\uc9c0 \uc54a\uc544\uc694. \uc544\ub2c8\uc694. ",
+        "Entities": [
+            {
+                "Text": "\uc544\ub2c8\uc694.",
+                "Type": "boolean",
+                "Start": 17,
+                "End": 20
+            }
+        ]
+    },
+    {
+        "Text": "\ub098\ub294 \uadf8\uac83\uc774 \ud6a8\uacfc\uac00 \uc788\uc744 \uac83\uc774\ub77c\uace0 \uc0dd\uac01\ud55c\ub2e4. \uc608 \uadf8\ub798\uc11c \ud558\uaca0\uc2b5\ub2c8\ub2e4.",
+        "Entities": [
+            {
+                "Text": "\uc608",
+                "Type": "boolean",
+                "Start": 25,
+                "End": 25
+            }
+        ]
+    },
+    {
+        "Text": "\uc544\ub2c8. \ub098\ub294 7\uc6d4 4\uc77c\uc5d0 \ub9d0\ud588\ub2e4.",
+        "Entities": [
+            {
+                "Text": "\uc544\ub2c8",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "\uc608\u2026 \ub098\ub294 \uc591\ud30c\uac00 \uc5c6\ub2e4\uace0 \ub9d0\ud588\uc2b5\ub2c8\ub2e4. ",
+        "Entities": [
+            {
+                "Text": "\uc608",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "\ub098\ub294 \uc608\uac00 \uc544\ub2c8\ub77c \uc544\ub2c8\ub77c\uace0 \ub9d0\ud588\ub2e4. ",
+        "Entities": [
+            {
+                "Text": "\uc544\ub2c8",
+                "Type": "boolean",
+                "Start": 6,
+                "End": 7
+            }
+        ]
+    },
+    {
+        "Text": "\uc608, \ub098\ub294 \uc544\ub2c8\ub77c\uace0 \ub9d0\ud588\uc2b5\ub2c8\ub2e4.",
+        "Entities": [
+            {
+                "Text": "\uc608",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "\ub3d9\uc758\ud558\uc9c0 \uc54a\uc544\uc694, \uc774\uac83\uc740 \uad1c\ucc2e\uc9c0 \uc54a\uc544\uc694. ",
+        "Entities": [
+            {
+                "Text": "\uad1c\ucc2e\uc9c0 \uc54a\uc544\uc694",
+                "Type": "boolean",
+                "Start": 14,
+                "End": 20
+            }
+        ]
+    },
+    {
+        "Text": "\ub3d9\uc758\ud574\uc694, \uc774\uac83\uc740 \uad1c\ucc2e\uc544\uc694. ",
+        "Entities": [
+            {
+                "Text": "\ub3d9\uc758\ud574\uc694",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 3
+            }
+        ]
+    },
+    {
+        "Text": "\ub3d9\uc758\ud558\uc9c0 \uc54a\uc544\uc694. ",
+        "Entities": [
+            {
+                "Text": "\ub3d9\uc758\ud558\uc9c0 \uc54a\uc544\uc694",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 7
+            }
+        ]
+    },
+    {
+        "Text": "\uc774\uac83\uc740 \uad1c\ucc2e\uc9c0 \uc54a\uc544\uc694. ",
+        "Entities": [
+            {
+                "Text": "\uad1c\ucc2e\uc9c0 \uc54a\uc544\uc694",
+                "Type": "boolean",
+                "Start": 4,
+                "End": 10
+            }
+        ]
+    },
+    {
+        "Text": "\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c",
+        "Entities": [
+            {
+                "Text": "\ud83d\udc4c",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "Claro!",
+        "Entities": [
+            {
+                "Text": "Claro",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 4
+            }
+        ]
+    },
+    {
+        "Text": "N\u00e3o. Eu acho que n\u00e3o.",
+        "Entities": [
+            {
+                "Text": "N\u00e3o",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 2
+            }
+        ]
+    },
+    {
+        "Text": "Acho que sim.",
+        "Entities": [
+            {
+                "Text": "sim",
+                "Type": "boolean",
+                "Start": 9,
+                "End": 11
+            }
+        ]
+    },
+    {
+        "Text": "nao. eu disse 5 de setembro",
+        "Entities": [
+            {
+                "Text": "nao",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 2
+            }
+        ]
+    },
+    {
+        "Text": "sim... eu j\u00e1 disse que eu n\u00e3o gosto de cebola!",
+        "Entities": [
+            {
+                "Text": "sim",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 2
+            }
+        ]
+    },
+    {
+        "Text": "Eu disse N\u00c3O, n\u00e3o sim!",
+        "Entities": [
+            {
+                "Text": "N\u00c3O",
+                "Type": "boolean",
+                "Start": 9,
+                "End": 11
+            }
+        ]
+    },
+    {
+        "Text": "Sim. Eu disse n\u00e3o.",
+        "Entities": [
+            {
+                "Text": "Sim",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 2
+            }
+        ]
+    },
+    {
+        "Text": "\ud83d\udc4c T\u00e1 ok",
+        "Entities": [
+            {
+                "Text": "\ud83d\udc4c",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c",
+        "Entities": [
+            {
+                "Text": "\ud83d\udc4c",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "\u00a1Por supuesto!",
+        "Entities": [
+            {
+                "Text": "Por supuesto",
+                "Type": "boolean",
+                "Start": 1,
+                "End": 12
+            }
+        ]
+    },
+    {
+        "Text": "No lo creo. no.",
+        "Entities": [
+            {
+                "Text": "No",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "Creo que eso funcionar\u00eda as\u00ed que s\u00ed lo har\u00e9.",
+        "Entities": [
+            {
+                "Text": "s\u00ed",
+                "Type": "boolean",
+                "Start": 26,
+                "End": 27
+            }
+        ]
+    },
+    {
+        "Text": "No. Dije el 4 de Julio",
+        "Entities": [
+            {
+                "Text": "No",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "S\u00ed ... dije sin cebollas",
+        "Entities": [
+            {
+                "Text": "S\u00ed",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "\u00a1Dije que NO, en vez de s\u00ed!",
+        "Entities": [
+            {
+                "Text": "NO",
+                "Type": "boolean",
+                "Start": 10,
+                "End": 11
+            }
+        ]
+    },
+    {
+        "Text": "S\u00ed . dije que no",
+        "Entities": [
+            {
+                "Text": "S\u00ed",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "\ud83d\udc4c Est\u00e1 bien",
+        "Entities": [
+            {
+                "Text": "\ud83d\udc4c",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c",
+        "Entities": [
+            {
+                "Text": "\ud83d\udc4c",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "sant",
+        "Entities": [
+            {
+                "Text": "sant",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 3
+            }
+        ]
+    },
+    {
+        "Text": "ja",
+        "Entities": [
+            {
+                "Text": "ja",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "ja det \u00e4r ok",
+        "Entities": [
+            {
+                "Text": "ja",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "ja, det \u00e4r ok",
+        "Entities": [
+            {
+                "Text": "ja",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "yes",
+        "Entities": [
+            {
+                "Text": "yes",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 2
+            }
+        ]
+    },
+    {
+        "Text": "y",
+        "Entities": [
+            {
+                "Text": "y",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "j",
+        "Entities": [
+            {
+                "Text": "j",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "ok",
+        "Entities": [
+            {
+                "Text": "ok",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "ok d\u00e5",
+        "Entities": [
+            {
+                "Text": "ok",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "det \u00e4r ok",
+        "Entities": [
+            {
+                "Text": "ok",
+                "Type": "boolean",
+                "Start": 7,
+                "End": 8
+            }
+        ]
+    },
+    {
+        "Text": "japp",
+        "Entities": [
+            {
+                "Text": "japp",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 3
+            }
+        ]
+    },
+    {
+        "Text": "jupp",
+        "Entities": [
+            {
+                "Text": "jupp",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 3
+            }
+        ]
+    },
+    {
+        "Text": "jepp",
+        "Entities": [
+            {
+                "Text": "jepp",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 3
+            }
+        ]
+    },
+    {
+        "Text": "absolut",
+        "Entities": [
+            {
+                "Text": "absolut",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 6
+            }
+        ]
+    },
+    {
+        "Text": "s\u00e4kert",
+        "Entities": [
+            {
+                "Text": "s\u00e4kert",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 5
+            }
+        ]
+    },
+    {
+        "Text": "inst\u00e4mmer",
+        "Entities": [
+            {
+                "Text": "inst\u00e4mmer",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 8
+            }
+        ]
+    },
+    {
+        "Text": "javisst",
+        "Entities": [
+            {
+                "Text": "javisst",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 6
+            }
+        ]
+    },
+    {
+        "Text": "k\u00f6r",
+        "Entities": [
+            {
+                "Text": "k\u00f6r",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 2
+            }
+        ]
+    },
+    {
+        "Text": "k\u00f6r p\u00e5!",
+        "Entities": [
+            {
+                "Text": "k\u00f6r",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 2
+            }
+        ]
+    },
+    {
+        "Text": "\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c",
+        "Entities": [
+            {
+                "Text": "\ud83d\udc4c",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "falskt",
+        "Entities": [
+            {
+                "Text": "falskt",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 5
+            }
+        ]
+    },
+    {
+        "Text": "nej",
+        "Entities": [
+            {
+                "Text": "nej",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 2
+            }
+        ]
+    },
+    {
+        "Text": "n\u00e4pp",
+        "Entities": [
+            {
+                "Text": "n\u00e4pp",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 3
+            }
+        ]
+    },
+    {
+        "Text": "nope",
+        "Entities": [
+            {
+                "Text": "nope",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 3
+            }
+        ]
+    },
+    {
+        "Text": "misstycker",
+        "Entities": [
+            {
+                "Text": "misstycker",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 9
+            }
+        ]
+    },
+    {
+        "Text": "aldrig",
+        "Entities": [
+            {
+                "Text": "aldrig",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 5
+            }
+        ]
+    },
+    {
+        "Text": "n",
+        "Entities": [
+            {
+                "Text": "n",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "n\u00e4",
+        "Entities": [
+            {
+                "Text": "n\u00e4",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 1
+            }
+        ]
+    },
+    {
+        "Text": "absolut inte",
+        "Entities": [
+            {
+                "Text": "absolut inte",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 11
+            }
+        ]
+    },
+    {
+        "Text": "gl\u00f6m det",
+        "Entities": [
+            {
+                "Text": "gl\u00f6m det",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 7
+            }
+        ]
+    },
+    {
+        "Text": "jag s\u00e4ger bara, gl\u00f6m det!",
+        "Entities": [
+            {
+                "Text": "gl\u00f6m det",
+                "Type": "boolean",
+                "Start": 16,
+                "End": 23
+            }
+        ]
+    },
+    {
+        "Text": "\u00f6h, n\u00e4",
+        "Entities": [
+            {
+                "Text": "n\u00e4",
+                "Type": "boolean",
+                "Start": 4,
+                "End": 5
+            }
+        ]
+    },
+    {
+        "Text": "jag vill inte det",
+        "Entities": [
+            {
+                "Text": "vill inte",
+                "Type": "boolean",
+                "Start": 4,
+                "End": 12
+            }
+        ]
+    },
+    {
+        "Text": "nej, jag vill inte",
+        "Entities": [
+            {
+                "Text": "vill inte",
+                "Type": "boolean",
+                "Start": 9,
+                "End": 17
+            }
+        ]
+    },
+    {
+        "Text": "tabi !",
+        "Entities": [
+            {
+                "Text": "tabi",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 3
+            }
+        ]
+    },
+    {
+        "Text": "Sanm\u0131yorum. Hay\u0131r.",
+        "Entities": [
+            {
+                "Text": "Hay\u0131r",
+                "Type": "boolean",
+                "Start": 12,
+                "End": 16
+            }
+        ]
+    },
+    {
+        "Text": "San\u0131r\u0131m bu i\u015fe yarayabilir. Yani evet yapaca\u011f\u0131m",
+        "Entities": [
+            {
+                "Text": "evet",
+                "Type": "boolean",
+                "Start": 33,
+                "End": 36
+            }
+        ]
+    },
+    {
+        "Text": "Hay\u0131r. Temmuz'un d\u00f6rd\u00fc dedim.",
+        "Entities": [
+            {
+                "Text": "Hay\u0131r",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 4
+            }
+        ]
+    },
+    {
+        "Text": "Evet... So\u011fan yok dedim",
+        "Entities": [
+            {
+                "Text": "Evet",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 3
+            }
+        ]
+    },
+    {
+        "Text": "HAYIR dedim evet de\u011fil!",
+        "Entities": [
+            {
+                "Text": "HAYIR",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 4
+            }
+        ]
+    },
+    {
+        "Text": "Evet. Hay\u0131r dedim.",
+        "Entities": [
+            {
+                "Text": "Evet",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 3
+            }
+        ]
+    },
+    {
+        "Text": "Kat\u0131lm\u0131yorum, tamam de\u011fil",
+        "Entities": [
+            {
+                "Text": "tamam de\u011fil",
+                "Type": "boolean",
+                "Start": 14,
+                "End": 24
+            }
+        ]
+    },
+    {
+        "Text": "Kat\u0131l\u0131yorum, tamam",
+        "Entities": [
+            {
+                "Text": "Kat\u0131l\u0131yorum",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 10
+            }
+        ]
+    },
+    {
+        "Text": "Kat\u0131l\u0131yorum, tamam de\u011fil",
+        "Entities": [
+            {
+                "Text": "tamam de\u011fil",
+                "Type": "boolean",
+                "Start": 13,
+                "End": 23
+            }
+        ]
+    },
+    {
+        "Text": "kat\u0131lm\u0131yorum",
+        "Entities": [
+            {
+                "Text": "kat\u0131lm\u0131yorum",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 11
+            }
+        ]
+    },
+    {
+        "Text": "tamam de\u011fil",
+        "Entities": [
+            {
+                "Text": "tamam de\u011fil",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 10
+            }
+        ]
+    },
+    {
+        "Text": "\ud83d\udc4c tamam",
+        "Entities": [
+            {
+                "Text": "\ud83d\udc4c",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    },
+    {
+        "Text": "\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c",
+        "Entities": [
+            {
+                "Text": "\ud83d\udc4c",
+                "Type": "boolean",
+                "Start": 0,
+                "End": 0
+            }
+        ]
+    }
+]

@@ -36,7 +36,8 @@ def data_gen(path):
     final_data = []
     tot_sents = 0
     for file in files:
-        if "processed_data.json" in file:
+        if "processed_data.json" in file or "merged_data.json" in file:
+            print(file)
             continue
         logger.info("Processing " + file)
         data = json.load(open(file, "r", encoding="UTF-8"))
@@ -133,11 +134,13 @@ def data_merge(path, dataset_name="processed_data"):
 
 
 if __name__ == "__main__":
-    # type_path = "..//Number//"
-    # optparser = optparse.OptionParser()
-    # optparser.add_option('--type', default='Number', help='Specify which type you wanna aggregrate')
-    # opts = optparser.parse_args()[0]
-    # type_path = type_path.replace("Number", opts.type)
-    # for lang in glob.glob(type_path + "*"):
-    #     data_gen(type_path + lang)
-    data_merge("..//Number//")
+    type_path = "..//Number//"
+    optparser = optparse.OptionParser()
+    optparser.add_option('--type', default='Number', help='Specify which type you wanna aggregrate')
+    optparser.add_option('--do_merge', type="int", default='1', help='Specify whether to merge every dataset after aggregration')
+    opts = optparser.parse_args()[0]
+    type_path = type_path.replace("Number", opts.type)
+    for lang in glob.glob(type_path + "*//"):
+        data_gen(type_path + lang)
+    if opts.do_merge:
+        data_merge(type_path)
