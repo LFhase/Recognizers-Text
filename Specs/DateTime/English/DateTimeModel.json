@@ -14808,6 +14808,21 @@
             }
           ]
         }
+      },
+      {
+        "Text": "any year",
+        "Start": 19,
+        "End": 26,
+        "TypeName": "datetimeV2.set",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "P1Y",
+              "type": "set",
+              "value": "not resolved"
+            }
+          ]
+        }
       }
     ]
   },
@@ -17659,8 +17674,6 @@
     "Context": {
       "ReferenceDateTime": "2018-06-01T16:12:00"
     },
-    "Comment": "Not currently supported because 'between 7 and 9' is not recognized as TimePeriod",
-    "NotSupported": "dotnet",
     "NotSupportedByDesign": "javascript, python, java",
     "Results": [
       {
@@ -17675,6 +17688,154 @@
               "type": "datetimerange",
               "start": "2018-05-31 19:00:00",
               "end": "2018-05-31 21:00:00"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Input": "dinner with mom weekend.",
+    "Context": {
+      "ReferenceDateTime": "2016-11-11T00:00:00"
+    },
+    "NotSupported": "javascript, python",
+    "Results": [
+      {
+        "Text": "weekend",
+        "Start": 16,
+        "End": 22,
+        "TypeName": "datetimeV2.daterange",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "2016-W45-WE",
+              "type": "daterange",
+              "start": "2016-11-12",
+              "end": "2016-11-14"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Input": "dinner with mom the weekend.",
+    "Context": {
+      "ReferenceDateTime": "2016-11-11T00:00:00"
+    },
+    "NotSupported": "javascript, python",
+    "Results": [
+      {
+        "Text": "the weekend",
+        "Start": 16,
+        "End": 26,
+        "TypeName": "datetimeV2.daterange",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "2016-W45-WE",
+              "type": "daterange",
+              "start": "2016-11-12",
+              "end": "2016-11-14"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Input": "dinner with mom any weekend.",
+    "Context": {
+      "ReferenceDateTime": "2016-11-11T00:00:00"
+    },
+    "NotSupported": "javascript, python, java",
+    "Results": [
+      {
+        "Text": "any weekend",
+        "Start": 16,
+        "End": 26,
+        "TypeName": "datetimeV2.set",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "P1WE",
+              "type": "set",
+              "value": "not resolved"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Input": "dinner with mom all weekends.",
+    "Context": {
+      "ReferenceDateTime": "2016-11-11T00:00:00"
+    },
+    "NotSupported": "javascript, python, java, dotnet",
+    "Results": [
+      {
+        "Text": "all weekends",
+        "Start": 16,
+        "End": 27,
+        "TypeName": "datetimeV2.set",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "P1WE",
+              "type": "set",
+              "value": "not resolved"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Input": "I'll be out next evening from 7 to 9",
+    "Context": {
+      "ReferenceDateTime": "2018-06-01T16:12:00"
+    },
+    "NotSupportedByDesign": "javascript, python, java",
+    "Results": [
+      {
+        "Text": "next evening from 7 to 9",
+        "Start": 12,
+        "End": 35,
+        "TypeName": "datetimeV2.datetimerange",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "(2018-06-02T19,2018-06-02T21,PT2H)",
+              "type": "datetimerange",
+              "start": "2018-06-02 19:00:00",
+              "end": "2018-06-02 21:00:00"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Input": "They were working between 7 and 9 last morning.",
+    "Context": {
+      "ReferenceDateTime": "2018-06-01T16:12:00"
+    },
+    "NotSupportedByDesign": "javascript, python, java",
+    "Results": [
+      {
+        "Text": "between 7 and 9 last morning",
+        "Start": 18,
+        "End": 45,
+        "TypeName": "datetimeV2.datetimerange",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "(2018-05-31T07,2018-05-31T09,PT2H)",
+              "type": "datetimerange",
+              "start": "2018-05-31 07:00:00",
+              "end": "2018-05-31 09:00:00"
             }
           ]
         }
