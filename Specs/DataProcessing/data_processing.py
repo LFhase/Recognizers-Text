@@ -49,18 +49,26 @@ def data_gen(path):
                     # make up lost tokens
                     if "Start" not in ent.keys():
                         ent["Start"] = datai["Input"].find(ent["Text"])
-                        logger.warning("Can't find Start in original, find one according to the entity text")
+                        #logger.warning("Can't find Start in original, find one according to the entity text")
                     if "Length" not in ent.keys():
                         ent["Length"] = len(ent["Text"])
-                        logger.warning("Can't find Length in original, find one according to the entity text")
+                        #logger.warning("Can't find Length in original, find one according to the entity text")
 
                     # extract key information as a entity
+                    ent_type = ent["Type"] if "Type" in ent.keys() else (ent["TypeName"] if "TypeName" in ent.keys() else ent["Typename"])
+                    # convert datetimeV2.* to *
+                    ent_type = ent_type.split(".")[-1] if "datetimeV2" in ent_type else ent_type
+                    
+                    # remove entities with null typename
+                    if len(ent_type) == 0:
+                        logger.warning("Null entities occured in "+str(ents))
+                        continue
+
                     sent_ents.append({
                         "Text":
                             ent["Text"],
                         "Type":
-                            ent["Type"] if "Type" in ent.keys() else
-                            (ent["TypeName"] if "TypeName" in ent.keys() else ent["Typename"]),
+                            ent_type,
                         "Start":
                             ent["Start"],
                         "End":
@@ -108,7 +116,7 @@ def data_analysis(data):
 
     logger.info("Total Sentences: {0}, Totel Entities: {1}, Avg Entity Length: {2}, Sentence w/o Entities: {3}".format(
         len(data), cnt_ent, round(avg_len, 2), cnt_no_ent_sent))
-    for (tp, no) in type_dict.items():
+    for (tp, no) in sorted(type_dict.items(),key=lambda item: item[0]):
         logger.info(": ".join([str(tp), str(no)]))
     
     logger.info("============================================================================================")

@@ -22,7 +22,7 @@ The results will be `processed_data.conll` in conll format, under the correspond
 
 Meanwhile, logs will be `log.log` under your current directory.
 
-## Off-the-Shelf Scripts
+## Executive Scripts
 
 You can easily process all data by running the below commands
 
