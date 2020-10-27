@@ -17181,7 +17181,6 @@
     "Context": {
       "ReferenceDateTime": "2016-11-07T00:00:00"
     },
-    "NotSupported": "javascript, python, java",
     "Results": [
       {
         "Text": "by end of this month",
@@ -17207,7 +17206,6 @@
     "Context": {
       "ReferenceDateTime": "2016-11-07T00:00:00"
     },
-    "NotSupported": "javascript, python, java",
     "Results": [
       {
         "Text": "before end of this year",
@@ -17258,7 +17256,6 @@
     "Context": {
       "ReferenceDateTime": "2016-11-07T00:00:00"
     },
-    "NotSupported": "javascript, python, java",
     "Results": [
       {
         "Text": "after the beginning of march",
@@ -17291,7 +17288,6 @@
     "Context": {
       "ReferenceDateTime": "2016-11-07T00:00:00"
     },
-    "NotSupported": "javascript, python, java",
     "Results": [
       {
         "Text": "before the end of december",
@@ -18269,6 +18265,90 @@
               "type": "daterange",
               "start": "2016-01-01",
               "end": "2017-01-01"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Input": "after January 1, 2007 and no later than January 1, 2010",
+    "Context": {
+      "ReferenceDateTime": "2019-12-15T01:00:00"
+    },
+    "Results": [
+      {
+        "Text": "after january 1, 2007",
+        "Start": 0,
+        "End": 20,
+        "TypeName": "datetimeV2.daterange",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "2007-01-01",
+              "Mod": "after",
+              "type": "daterange",
+              "sourceEntity": "datetimepoint",
+              "start": "2007-01-01"
+            }
+          ]
+        }
+      },
+      {
+        "Text": "no later than january 1, 2010",
+        "Start": 26,
+        "End": 54,
+        "TypeName": "datetimeV2.daterange",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "2010-01-01",
+              "Mod": "before",
+              "type": "daterange",
+              "sourceEntity": "datetimepoint",
+              "end": "2010-01-01"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "Input": "Since January 1, 2010 or no later than January 1, 2007",
+    "Context": {
+      "ReferenceDateTime": "2019-12-15T01:00:00"
+    },
+    "Results": [
+      {
+        "Text": "since january 1, 2010",
+        "Start": 0,
+        "End": 20,
+        "TypeName": "datetimeV2.daterange",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "2010-01-01",
+              "Mod": "since",
+              "type": "daterange",
+              "sourceEntity": "datetimepoint",
+              "start": "2010-01-01"
+            }
+          ]
+        }
+      },
+      {
+        "Text": "no later than january 1, 2007",
+        "Start": 25,
+        "End": 53,
+        "TypeName": "datetimeV2.daterange",
+        "Resolution": {
+          "values": [
+            {
+              "timex": "2007-01-01",
+              "Mod": "before",
+              "type": "daterange",
+              "sourceEntity": "datetimepoint",
+              "end": "2007-01-01"
             }
           ]
         }
